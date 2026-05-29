@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.mat
+outputs/runs/
+outputs/eval_*/
+outputs/sync_*/
+outputs/joint_*/
